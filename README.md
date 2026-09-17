@@ -1,10 +1,12 @@
 <div align="center">
 
-# HARSH GHARAT
+<img src="./assets/hero.svg" alt="Harsh Gharat — Data Science, AI/ML, Software" width="100%" />
 
-### DATA SCIENCE · AI/ML · SOFTWARE
+</div>
 
-Building intelligent systems from data.
+<br>
+
+<div align="center">
 
 `M.Sc. Data Science` · `India`
 
@@ -14,12 +16,10 @@ Building intelligent systems from data.
 
 ## SELECTED WORK
 
-### PCB Vision AI
+### [PCB Vision AI](https://github.com/hhharrrshhh/PCB-Vision-AI-Intelligent-PCB-Defect-Classification-Localization)
 **Computer Vision · YOLO · FastAPI · React**
 
 End-to-end PCB defect classification and localization with a modern inference API and web interface.
-
-[View project →](https://github.com/hhharrrshhh/PCB-Vision-AI-Intelligent-PCB-Defect-Classification-Localization)
 
 ### BetPilot
 **LLM · Python · Automation · Playwright · Pydantic**
