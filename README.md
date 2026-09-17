@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/hero.svg" alt="Harsh Gharat — Data Science, AI/ML, Systems" width="100%" />
+<img src="https://raw.githubusercontent.com/hhharrrshhh/hhharrrshhh/main/assets/hero.svg" alt="Harsh — Data Science × AI/ML × Systems" width="100%" />
 
 </div>
 
@@ -8,9 +8,9 @@
 
 <div align="center">
 
-`DATA SCIENCE` &nbsp;×&nbsp; `AI/ML` &nbsp;×&nbsp; `SYSTEMS`
+`DATA SCIENCE` &nbsp;×&nbsp; `AI/ML` &nbsp;×&nbsp; `SYSTEMS` &nbsp;×&nbsp; `BUILDING`
 
-Building, learning and figuring things out.
+**Turning ideas into working things.**
 
 </div>
 
@@ -24,32 +24,32 @@ Building, learning and figuring things out.
 <tr>
 <td width="50%">
 
-### Research
+### 01 · Research
 
-Exploring data-driven questions around **time series, forecasting, economics and machine learning**.
+Time series · forecasting · economics · machine learning
 
 </td>
 <td width="50%">
 
-### Building
+### 02 · Building
 
-Turning ideas into practical systems with **Python, AI/ML, APIs and automation**.
+AI/ML systems · APIs · computer vision · automation
 
 </td>
 </tr>
 <tr>
 <td width="50%">
 
-### Learning
+### 03 · Learning
 
-Going deeper into **model development, software architecture and reliable AI systems**.
+Model development · architecture · reliable AI systems
 
 </td>
 <td width="50%">
 
-### Exploring
+### 04 · Exploring
 
-Always experimenting with new tools, workflows and ways to make things work better.
+New tools · new workflows · better ways to ship
 
 </td>
 </tr>
@@ -69,33 +69,19 @@ Always experimenting with new tools, workflows and ways to make things work bett
 
 <div align="center">
 
-<img src="./assets/activity.svg" alt="Building and experimenting" width="85%" />
+<img src="https://raw.githubusercontent.com/hhharrrshhh/hhharrrshhh/main/assets/activity.svg" alt="Live activity visualization" width="95%" />
 
 </div>
 
 ---
 
-## APPROACH
+## THE LOOP
 
-```text
-              IDEAS
-                │
-                ▼
-             EXPERIMENT
-                │
-                ▼
-               DATA
-                │
-                ▼
-              MODELS
-                │
-                ▼
-             SYSTEMS
-                │
-                ▼
-              ITERATE
-                └───────────────↺
-```
+<div align="center">
+
+**IDEAS**　→　**EXPERIMENT**　→　**DATA**　→　**MODELS**　→　**SYSTEMS**　→　**ITERATE**　↻
+
+</div>
 
 I like working across the whole path — from messy data and experiments to something people can actually use.
 
@@ -103,9 +89,9 @@ I like working across the whole path — from messy data and experiments to some
 
 <div align="center">
 
-### BUILDING THINGS THAT MATTER.
+### BUILD · RESEARCH · EXPERIMENT
 
-`●` ALWAYS EXPERIMENTING
+`●` ALWAYS IN MOTION
 
 <br /><br />
 
